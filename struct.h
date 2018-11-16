@@ -1,6 +1,7 @@
 #ifndef STRUCT_H
 #define STRUCT_H
 
+// Что это такое? Мне кто-нибудь скажет???
 #include <vector>
 #include <string>
 #include <cstdlib>
